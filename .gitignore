@@ -1,0 +1,32 @@
+# Virtual Environment
+.venv/
+
+# Python Cache
+__pycache__/
+*.py[cod]
+
+# VS Code
+.vscode/
+
+# Operating System Files
+Thumbs.db
+.DS_Store
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Logs
+*.log
+
+# Temporary Files
+*.tmp
+*.temp
+
+# YOLO Training Output (optional)
+runs/
+
+# PyTorch Cache
+*.pth
+
+# Environment Variables
+.env
