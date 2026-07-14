@@ -1,0 +1,10 @@
+path: D:/YOLO_Dataset
+
+train: train/images
+val: valid/images
+test: test/images
+
+names:
+  0: charger
+  1: matchbox
+  2: tape_roll

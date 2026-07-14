@@ -1,0 +1,3 @@
+charger
+matchbox
+tape_roll
