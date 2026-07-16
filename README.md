@@ -1,11 +1,3 @@
-# Work in Progress
-
-
-
-
-
-
-
 # YOLO Object Detection V1
 
 A custom YOLOv8 object detection project developed for a Vision-Based Pick-and-Place Robotic Arm. This project detects three custom objects in real time using a webcam and serves as the vision module for a robotic arm controlled by a Raspberry Pi Zero 2 W.
